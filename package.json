@@ -1,11 +1,11 @@
 {
-  "name": "glsl-transpiler",
+  "name": "glsl-transpiler-fork-for-gm",
   "version": "2.0.2",
   "description": "Transpile GLSL to JS",
   "main": "index.js",
   "type": "module",
   "dependencies": {
-    "glsl-parser-fork-for-gm": "^2.0.1",
+    "glsl-parser-fork-for-gm": "^5.0.0",
     "glsl-tokenizer": "^2.1.5",
     "inherits": "^2.0.1",
     "pick-by-alias": "^1.2.0",
@@ -45,7 +45,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stackgl/glsl-transpiler.git"
+    "url": "git+https://github.com/bayazit/glsl-transpiler.git"
   },
   "keywords": [
     "headless-gl",
@@ -68,7 +68,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/stackgl/glsl-transpiler/issues"
+    "url": "https://github.com/bayazit/glsl-transpiler/issues"
   },
-  "homepage": "https://github.com/stackgl/glsl-transpiler#readme"
+  "homepage": "https://github.com/bayazit/glsl-transpiler#readme"
 }
