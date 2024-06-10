@@ -1,7 +1,7 @@
 
 import GLSL from '../index.js'
 import TokenStream from 'glsl-tokenizer/stream.js'
-import ParseStream from 'glsl-parser/stream.js'
+import ParseStream from 'glsl-parser-fork-for-gm/stream.js'
 import CompileStream from '../stream.js'
 import test from 'tape'
 import StringStream from 'stream-array'
