@@ -6,7 +6,7 @@
   "type": "module",
   "dependencies": {
     "glsl-parser-fork-for-gm": "^5.0.0",
-    "glsl-tokenizer": "^2.1.5",
+    "glsl-tokenizer-fork-for-gm": "^3.0.2",
     "inherits": "^2.0.1",
     "pick-by-alias": "^1.2.0",
     "prepr": "^1.2.5",
