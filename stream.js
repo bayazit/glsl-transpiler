@@ -4,7 +4,7 @@
  * @module
  */
 
-import tokenize from 'glsl-tokenizer/string.js'
+import tokenize from 'glsl-tokenizer-fork-for-gm/string.js'
 import parse from './lib/parse.js'
 import GLSL from './lib/index.js'
 import {Transform} from 'stream'
