@@ -1,6 +1,6 @@
 {
   "name": "glsl-transpiler-fork-for-gm",
-  "version": "2.0.19",
+  "version": "2.0.20",
   "description": "Transpile GLSL to JS",
   "main": "index.js",
   "type": "module",
