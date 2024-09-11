@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "dependencies": {
-    "glsl-parser-fork-for-gm": "^5.0.2",
+    "glsl-parser-fork-for-gm": "^5.0.3",
     "glsl-tokenizer-fork-for-gm": "^3.0.3",
     "inherits": "^2.0.1",
     "pick-by-alias": "^1.2.0",
